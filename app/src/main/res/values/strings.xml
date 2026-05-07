@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gallery Video</string>
+    <string name="how_it_works_desc">Ketika sebuah aplikasi meminta Anda merekam video, pilih Gallery Video sebagai kamera. App ini akan membuka galeri video Anda, dan video yang dipilih akan dikirim ke aplikasi tersebut seolah baru direkam.</string>
+    <string name="steps_desc">1. Buka app yang butuh video (misal WhatsApp)\n\n2. Ketuk tombol rekam video\n\n3. Pilih Gallery Video dari daftar kamera\n\n4. Pilih video dari galeri\n\n5. Video terkirim otomatis ✓</string>
+    <string name="select_video">Pilih video</string>
+    <string name="error_no_gallery">Tidak ada aplikasi galeri yang ditemukan</string>
+    <string name="error_copy_failed">Gagal memproses video</string>
+</resources>
